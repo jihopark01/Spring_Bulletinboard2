@@ -1,2 +1,2 @@
-# Spring-BulletinBoard for practice 
+# Spring-BulletinBoard for practice 2
 
